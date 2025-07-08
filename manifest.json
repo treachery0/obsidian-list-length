@@ -1,0 +1,9 @@
+{
+	"id": "list-length",
+	"name": "List Length",
+	"version": "0.1.0",
+	"minAppVersion": "1.2.0",
+	"description": "Display the length of lists in your notes.",
+	"author": "Treachery",
+	"isDesktopOnly": false
+}
